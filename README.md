@@ -63,8 +63,7 @@ DART studio screen shots for joint interpolation
 
 
 
-### Robot movements 
-Thus ,linear and joint interpolation of industrial manipulator and program is executed.
+
 
 
 
@@ -81,3 +80,4 @@ Thus ,linear and joint interpolation of industrial manipulator and program is ex
 
 
 ### Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
